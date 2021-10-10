@@ -1,4 +1,4 @@
-package com.dada;
+package com.dadaso;
 
 import java.util.Scanner;
 
