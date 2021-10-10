@@ -9,7 +9,7 @@ public class Calculator {
 		System.out.println("Enter your first number");
 		int number1=sc.nextInt();
 		
-		System.out.println("Enter your second number number");
+		System.out.println("Enter your second number");
 		int number2=sc.nextInt();
 		
 		System.out.println("Addition of two number"+(number1+number2));
